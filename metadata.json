@@ -1,0 +1,7 @@
+{
+  "name": "FlowDev - Sistema de Gestão de Serviços",
+  "description": "Sistema completo para gestão de orçamentos, ordens de serviço e manutenções preventivas para empresas técnicas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
